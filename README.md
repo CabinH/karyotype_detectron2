@@ -22,7 +22,7 @@
 ### keys
 - keypoints detection / 关键点数量约束
     - 帮助识别小物体
-- anchor -- kmeans聚类
+- anchor -- [kmeans聚类](https://zhuanlan.zhihu.com/p/109968578)
     - yolo？
 - SERoIAlign
 - class_weight
